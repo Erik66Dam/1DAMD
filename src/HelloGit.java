@@ -5,6 +5,7 @@ public class HelloGit {
 		System.out.println("Hello Git");
 		System.out.println("This is a little programm");
 		System.out.println("Veamos como aparece en GitHub");
+		System.out.println("Cambiamos un poco el código");
 	}
 }
 	
