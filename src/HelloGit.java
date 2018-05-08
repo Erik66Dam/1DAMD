@@ -4,9 +4,7 @@ public class HelloGit {
 	public static void main(String[] args){
 		System.out.println("Hello Git");
 		System.out.println("This is a little programm");
-		System.out.println("Veamos como aparece en GitHub");
-		System.out.println("Cambiamos un poco el código");
-		System.out.println("Y ahora otro poco más, con esto vale");
+		System.out.println("Tgfhfdg");
 	}
 }
 	
